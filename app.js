@@ -1,8 +1,8 @@
 // Данные товаров
 const products = [
-    { id: 1, name: "Футболка", price: 20, image: "https://via.placeholder.com/100" },
-    { id: 2, name: "Кружка", price: 10, image: "https://via.placeholder.com/100" },
-    { id: 3, name: "Носки", price: 5, image: "https://via.placeholder.com/100" }
+    { id: 1, name: "4 зз", price: 20, image: "https://via.placeholder.com/100" },
+    { id: 2, name: "2 зз", price: 10, image: "https://via.placeholder.com/100" },
+    { id: 3, name: "1 зз", price: 5, image: "https://via.placeholder.com/100" }
 ];
 
 let cart = [];
